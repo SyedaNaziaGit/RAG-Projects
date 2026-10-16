@@ -1,0 +1,9 @@
+[submodule "Corrective_RAG"]
+	path = Corrective_RAG
+	url = https://github.com/SyedaNaziaGit/Corrective_RAG.git
+[submodule "Self_RAG"]
+	path = Self_RAG
+	url = https://github.com/SyedaNaziaGit/Self_RAG.git
+[submodule "AgenticRAG"]
+	path = AgenticRAG
+	url = https://github.com/SyedaNaziaGit/AgenticRAG.git
